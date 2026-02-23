@@ -76,6 +76,3 @@ Different combinations produce different models.
 | EPC         | No              | No             | Very Low       |
 
 ---
-
-Cost overrun
-Time overrun
